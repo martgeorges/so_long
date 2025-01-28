@@ -1,9 +1,3 @@
 42 Luxembourg C project
 
-Little 2D game
-
-to play : 
-
-make 
-
-example : ./so_long maps/1.ber
+2D game - so_long
