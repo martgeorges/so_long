@@ -6,4 +6,4 @@ to play :
 
 make 
 
-exemple : ./so_long maps/1.ber
+example : ./so_long maps/1.ber
