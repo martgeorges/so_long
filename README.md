@@ -15,3 +15,7 @@ to run it simple steps to follow : <br>
 finally it should look like this : <br>
 
 <img width="522" alt="Capture d’écran 2025-07-07 à 07 38 55" src="https://github.com/user-attachments/assets/6cf13bb6-9a11-425d-94fc-58b340d237e7" />
+
+In your terminal you will also so have some data, like this example :
+
+<img width="263" alt="Capture d’écran 2025-07-07 à 07 50 25" src="https://github.com/user-attachments/assets/50a57f01-49e4-46de-bd20-d7161b0bf0b2" />
